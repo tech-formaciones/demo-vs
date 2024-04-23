@@ -23,6 +23,9 @@ namespace Contoso.Andromeda.ConsoleApp1
         public string Nombre { get; set; }
         public string Apellidos { get; set; }
         public int Edad { get; set; }
+        public string Dirección { get; set; }
+        public string Provincia { get; set; }
+
     }
 
 
